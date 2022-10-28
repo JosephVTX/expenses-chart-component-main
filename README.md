@@ -47,7 +47,7 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 ### Links
 
 - Solution URL: (https://github.com/JosephVTX/expenses-chart-component-main)
-- Live Site URL: (https://your-live-site-url.com)
+- Live Site URL: (https://imaginative-medovik-d2435e.netlify.app/)
 
 ## My process
 
@@ -104,7 +104,7 @@ Use this section to outline areas that you want to continue focusing on in futur
 ## Author
 
 - Website - [JosephVTX](https://www.your-site.com) Coming Soon!!
-- Frontend Mentor - [@JosephVTX](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@JosephVTX](https://www.frontendmentor.io/profile/JosephVTX)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
 
